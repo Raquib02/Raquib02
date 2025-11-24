@@ -6,7 +6,7 @@ I am very passionate about cybersecurity, especially GRC. I hold a Bachelor’s 
 
 In my free time, I enjoy learning new things, doing photography, and playing video games as a hobby. To me, every day is a new opportunity to grow, and life should be lived one day and one step at a time.
 
-Thank you for reading my bio — feel free to check out some of my projects below.</b>
+Thank you for reading my bio, feel free to check out some of my projects below.</b>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
